@@ -1,4 +1,4 @@
 package token;
 
-public class WildcardToken implements IToken {
+public class WildcardToken implements Token {
 }

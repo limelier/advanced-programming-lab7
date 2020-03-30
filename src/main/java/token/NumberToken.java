@@ -1,6 +1,6 @@
 package token;
 
-public class NumberToken implements IToken {
+public class NumberToken implements Token {
     private int number;
 
     public NumberToken(int number) {
